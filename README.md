@@ -8,6 +8,7 @@ Download these components to play the demo:
 - [Tampa Bay Team Cards](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Advanced%20-%20TB.pdf)
 - [Kansas City Team Cards](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Advanced%20-%20KC.pdf)
 - [Scoreboard/Scorecard](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Scorecard.pdf)
+- [Game Card for Down & Distance, Timekeeping, etc.](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Advanced%20-%20Game%20Card.pdf)
 
 ## Feedback
 
