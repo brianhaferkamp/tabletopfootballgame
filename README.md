@@ -19,4 +19,4 @@ A 9-part video tutorial series is available to learn how to play the game. Each 
 
 ## Feedback
 
-Advanced Stats Football is a brand new game that has only been played a few times. It’s being released at the earliest possible stage for play testing and creating a better game overall. Please play using the demo teams and let me know what needs to be improved or added. If you have suggestions or find errors in the game or game play guide please email me at brianhaferkamp@gmail.com.
+Advanced Stats Football is a brand new game. It’s being released at the earliest possible stage for play testing and creating a better game overall. If you have suggestions or find errors in the game or game play guide please send an email to advancedstatsfootball@gmail.com.
