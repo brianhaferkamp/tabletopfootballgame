@@ -12,6 +12,11 @@ Download these components to play the demo:
 - [Scoreboard/Scorecard](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Scorecard.pdf)
 - [Game Card for Down & Distance, Timekeeping, etc.](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Advanced%20-%20Game%20Card.pdf)
 
+## Video Tutorial
+
+A 9-part video tutorial series is available to learn how to play the game. Each short video talks through all the different rolls and covers: play calling, passing, rushing, defense, timing, special teams, and more.
+[Watch the tutorials](https://youtube.com/playlist?list=PLSuZlbKUmcxj_MmFm0uqOuowSEA7fthP5)
+
 ## Feedback
 
 Advanced Stats Football is a brand new game that has only been played a few times. It’s being released at the earliest possible stage for play testing and creating a better game overall. Please play using the demo teams and let me know what needs to be improved or added. If you have suggestions or find errors in the game or game play guide please email me at brianhaferkamp@gmail.com.
