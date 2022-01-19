@@ -10,7 +10,7 @@ Download these components to play the demo:
 - [Kansas City Offense](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Advanced%20-%20KC.pdf)
 - [Kansas City Defense](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Advanced%20-%20KC%20Def.pdf)
 - [Scoreboard/Scorecard](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Scorecard.pdf)
-- [Game Card for Down & Distance, Timekeeping, etc.](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Advanced%20-%20Game%20Card.pdf)
+- [Game Card for Down & Distance, Timekeeping, and Special Teams](https://github.com/brianhaferkamp/tabletopfootballgame/raw/main/Tabletop%20Football%20Advanced%20-%20Game%20Card.pdf)
 
 ## Video Tutorial
 
